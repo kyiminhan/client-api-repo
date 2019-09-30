@@ -43,6 +43,12 @@
 			<artifactId>google-maps-services</artifactId>
 			<version>0.10.1</version>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/com.bytebybyte/google-geocoding -->
+		<dependency>
+			<groupId>com.bytebybyte</groupId>
+			<artifactId>google-geocoding</artifactId>
+			<version>3.0.1</version>
+		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core -->
 		<dependency>
